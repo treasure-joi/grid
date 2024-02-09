@@ -1,0 +1,9 @@
+.container{
+    display: grid;
+}
+.container div{
+    width: 120px;
+    padding: 5px;
+    background-color: aqua;
+    
+}
